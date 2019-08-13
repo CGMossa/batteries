@@ -1,13 +1,13 @@
 Package: batteries
-Title: What the Package Does (One Line, Title Case)
+Title: R Batteries Included
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Mossa",
+           family = "Reimert",
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Package containing nuisance free R batteries.
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
