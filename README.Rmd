@@ -1,0 +1,27 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# batteries
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of batteries is to include a few nice to have functions, and document
+them using all the modern R ways of doing so.
+
+## Installation
+
+``` r
+remotes::install_github("cgmossa/batteries")
+```
